@@ -23,3 +23,4 @@ Enter a letter when prompted. If you wish to quit the game instead, then enter t
 2=load game</br>
 quit = to quit game</br>
 save = to save game</br>
+exit= to exit game
